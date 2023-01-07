@@ -1,4 +1,4 @@
-# ✸✸✸ Морской бой ✸✸✸
+# ✸✸✸ Sea Battle ✸✸✸
 
 from random import randint
 
