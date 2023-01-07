@@ -1,4 +1,4 @@
-# ✸✸✸ Sea Battle ✸✸✸
+# ✸✸✸ seaBattle ✸✸✸
 
 from random import randint
 
